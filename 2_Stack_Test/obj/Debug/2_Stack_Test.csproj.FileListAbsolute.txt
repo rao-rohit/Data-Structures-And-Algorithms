@@ -1,0 +1,8 @@
+D:\MyProjects\Algotirhtm\DSA\2_Stack_Test\obj\Debug\2_Stack_Test.csprojResolveAssemblyReference.cache
+D:\MyProjects\Algotirhtm\DSA\2_Stack_Test\bin\Debug\2_Stack_Test.dll
+D:\MyProjects\Algotirhtm\DSA\2_Stack_Test\bin\Debug\2_Stack_Test.pdb
+D:\MyProjects\Algotirhtm\DSA\2_Stack_Test\bin\Debug\2_Stack.dll
+D:\MyProjects\Algotirhtm\DSA\2_Stack_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\MyProjects\Algotirhtm\DSA\2_Stack_Test\bin\Debug\2_Stack.pdb
+D:\MyProjects\Algotirhtm\DSA\2_Stack_Test\obj\Debug\2_Stack_Test.dll
+D:\MyProjects\Algotirhtm\DSA\2_Stack_Test\obj\Debug\2_Stack_Test.pdb

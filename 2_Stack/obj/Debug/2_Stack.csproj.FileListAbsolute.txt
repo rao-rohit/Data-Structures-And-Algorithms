@@ -1,0 +1,5 @@
+D:\MyProjects\Algotirhtm\DSA\2_Stack\bin\Debug\2_Stack.dll
+D:\MyProjects\Algotirhtm\DSA\2_Stack\bin\Debug\2_Stack.pdb
+D:\MyProjects\Algotirhtm\DSA\2_Stack\obj\Debug\2_Stack.csprojResolveAssemblyReference.cache
+D:\MyProjects\Algotirhtm\DSA\2_Stack\obj\Debug\2_Stack.dll
+D:\MyProjects\Algotirhtm\DSA\2_Stack\obj\Debug\2_Stack.pdb
