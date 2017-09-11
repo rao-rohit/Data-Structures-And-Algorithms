@@ -1,0 +1,8 @@
+D:\MyProjects\Algotirhtm\DSA\3_Queue_Test\bin\Debug\3_Queue_Test.dll
+D:\MyProjects\Algotirhtm\DSA\3_Queue_Test\bin\Debug\3_Queue_Test.pdb
+D:\MyProjects\Algotirhtm\DSA\3_Queue_Test\bin\Debug\3_Queue.dll
+D:\MyProjects\Algotirhtm\DSA\3_Queue_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\MyProjects\Algotirhtm\DSA\3_Queue_Test\bin\Debug\3_Queue.pdb
+D:\MyProjects\Algotirhtm\DSA\3_Queue_Test\obj\Debug\3_Queue_Test.csprojResolveAssemblyReference.cache
+D:\MyProjects\Algotirhtm\DSA\3_Queue_Test\obj\Debug\3_Queue_Test.dll
+D:\MyProjects\Algotirhtm\DSA\3_Queue_Test\obj\Debug\3_Queue_Test.pdb
