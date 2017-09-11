@@ -1,0 +1,8 @@
+D:\MyProjects\Algotirhtm\DSA\4_BinaryTree_Test\bin\Debug\4_BinaryTree_Test.dll
+D:\MyProjects\Algotirhtm\DSA\4_BinaryTree_Test\bin\Debug\4_BinaryTree_Test.pdb
+D:\MyProjects\Algotirhtm\DSA\4_BinaryTree_Test\bin\Debug\4_BinaryTree.dll
+D:\MyProjects\Algotirhtm\DSA\4_BinaryTree_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\MyProjects\Algotirhtm\DSA\4_BinaryTree_Test\bin\Debug\4_BinaryTree.pdb
+D:\MyProjects\Algotirhtm\DSA\4_BinaryTree_Test\obj\Debug\4_BinaryTree_Test.csprojResolveAssemblyReference.cache
+D:\MyProjects\Algotirhtm\DSA\4_BinaryTree_Test\obj\Debug\4_BinaryTree_Test.dll
+D:\MyProjects\Algotirhtm\DSA\4_BinaryTree_Test\obj\Debug\4_BinaryTree_Test.pdb
